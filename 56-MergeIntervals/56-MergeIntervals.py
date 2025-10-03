@@ -1,4 +1,4 @@
-# Last updated: 19/09/2025, 00:18:37
+# Last updated: 04/10/2025, 00:26:54
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         merged=[]
