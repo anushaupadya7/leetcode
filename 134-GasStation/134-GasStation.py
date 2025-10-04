@@ -1,4 +1,4 @@
-# Last updated: 19/09/2025, 00:18:13
+# Last updated: 05/10/2025, 01:36:45
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         total_gas=sum(gas)
